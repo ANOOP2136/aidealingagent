@@ -43,7 +43,7 @@ The system is designed to turn raw research into a **structured view of a potent
 ## 1. Clone & Navigate
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+gh repo clone ANOOP2136/aidealingagent
 ```
 
 ## 2. Set Environment
